@@ -4,6 +4,7 @@ import Home from "./Home";
 import About from "./About";
 import ProjectList from "./ProjectList";
 import user from "../data/user";
+import ReactDOM from "react-dom";
 
 function App() {
   return (
